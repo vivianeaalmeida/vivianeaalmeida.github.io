@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Viviane Andrade de Almeida
 
-You can use the [editor on GitHub](https://github.com/vivianeaalmeida/vivianeaalmeida.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Acredito que a busca por conhecimento e melhoria contínua devem fazer parte do nosso dia-a-dia, com o objetivo de nos tornar pessoas e profissionais melhores. Tenho facilidade de trabalhar em equipe e possuo a convicção que cada pessoa contribui com conhecimentos e experiências relevantes, tornando harmonioso o trabalho em conjunto. A tecnologia, quando bem aplicada, transforma o mundo em um lugar melhor <3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Educação
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Pós Graduação em Engenharia de Software
+**PUC Minas** 
 
-# Header 1
-## Header 2
-### Header 3
+### Graduação em Marketing
+**FMU**
+  
 
-- Bulleted
-- List
+## Experiência
 
-1. Numbered
-2. List
+- Execução das atividades de natureza técnico-administrativa, com uso das tecnologias de comunicação e informação (TICs) e apoio de softwares da Prefeitura;
+- Responsável pelo controle de dados relativos à vida funcional dos servidores da unidade, acompanhamento da frequência, registro de férias, promoções e remuneração do pessoal;
+- Protocolamento e autuação de processos administrativos funcionais e de pagamento;
+- Auxilio no gerenciamento de processos das empresas terceirizadas; 
+- Atendimento ao público interno e externo, através de múltiplos canais, com habilidade no relacionamento pessoal e transmissão de informações;
+- Realização de aquisições de materiais e contratação de serviços;
+- Assessoria nas ações e instrumentos de comunicação e divulgação de atividades da SME; 
+- Elaboração de documentos, planilhas, expedientes, atas, memorandos e relatórios;
+- Recebimento, classificação, arquivamento, instrução e encaminhamento de documentos;
+- Apoio administrativo a departamentos Educacionais, de Cultura, Esporte e Lazer (SME).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Conhecimentos e Habilidades
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Metodologia Ágil - Scrum
 
-### Jekyll Themes
+Construções de Aplicações WEB
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivianeaalmeida/vivianeaalmeida.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Framework Bootstrap
