@@ -1,9 +1,9 @@
 # Viviane Andrade de Almeida
 
-Acredito que a busca por conhecimento e melhoria contínua devem fazer parte do nosso dia-a-dia, com o objetivo de nos tornar pessoas e profissionais melhores. Tenho facilidade de trabalhar em equipe e possuo a convicção que cada pessoa contribui com conhecimentos e experiências relevantes, tornando harmonioso o trabalho em conjunto. A tecnologia, quando bem aplicada, transforma o mundo em um lugar melhor <3
+Acredito que a busca por conhecimento e melhoria contínua devem fazer parte do nosso dia-a-dia, com o objetivo de nos tornar pessoas e profissionais melhores. Tenho facilidade de trabalhar em equipe e possuo a convicção que cada pessoa contribui com conhecimentos e experiências relevantes, tornando harmonioso o trabalho em conjunto. A tecnologia, quando bem aplicada, transforma o mundo em um lugar melhor :gift_heart::gift_heart::gift_heart:
 
 
-## Educação
+## Educação :books:
 
 
 ### Pós Graduação em Engenharia de Software
@@ -11,9 +11,14 @@ Acredito que a busca por conhecimento e melhoria contínua devem fazer parte do 
 
 ### Graduação em Marketing
 **FMU**
+
+### Graduação em Administração
+**UNESA**
   
 
-## Experiência
+## Experiência :briefcase:
+### Prefeitura de São Paulo
+**Novembro de 2014 - Abril de 2022**
 
 - Execução das atividades de natureza técnico-administrativa, com uso das tecnologias de comunicação e informação (TICs) e apoio de softwares da Prefeitura;
 - Responsável pelo controle de dados relativos à vida funcional dos servidores da unidade, acompanhamento da frequência, registro de férias, promoções e remuneração do pessoal;
@@ -27,10 +32,14 @@ Acredito que a busca por conhecimento e melhoria contínua devem fazer parte do 
 - Apoio administrativo a departamentos Educacionais, de Cultura, Esporte e Lazer (SME).
 
 
-## Conhecimentos e Habilidades
+## Conhecimentos e Habilidades :bulb:
 
 Metodologia Ágil - Scrum
 
 Construções de Aplicações WEB
 
 Framework Bootstrap
+
+## Contato :phone:
+
+[LinkedIn](https://www.linkedin.com/in/viviane-andrade-de-almeida/)
